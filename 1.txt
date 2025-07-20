@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Rony Frangieh
+Rony Frangieh xx
 
 
 
@@ -8,9 +7,3 @@ Y
 Z
 
 
-=======
-Paul Sawayya
-A
-B
-C
->>>>>>> F2
